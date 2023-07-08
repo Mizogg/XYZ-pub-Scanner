@@ -2,6 +2,14 @@
 
 XYZ PUB Crypto Scanner is a PyQt5-based tool for scanning Bitcoin wallets and deriving wallet information. It supports both online and offline modes of operation.
 
+![image](https://github.com/Mizogg/XYZ-pub-Scanner/assets/88630056/b3443666-b0e5-4c89-9740-78c238654380)
+
+Screenshot 1 Description: The application's main interface, English version Scanning Online Random Mnemonic.
+
+![image](https://github.com/Mizogg/XYZ-pub-Scanner/assets/88630056/282b0a98-1380-4e4d-8601-027822830054)
+
+Screenshot 2 Description: Russian version scanning in sequence looking for missing Mnemonic Words.
+
 ## Installation
 
 1. Clone the repository:
