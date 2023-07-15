@@ -6,6 +6,8 @@ Python script for generating and checking Bitcoin addresses derived from a mnemo
 
 ## xpubscan.py
 
+![image](https://github.com/Mizogg/XYZ-pub-Scanner/assets/88630056/70aaa45b-9aff-49ff-af28-674500e40112)
+
 The script prompts the user to either enter a mnemonic manually or generate one randomly.
 
 If the user chooses to enter a mnemonic, it validates the input and proceeds with the main logic. 
