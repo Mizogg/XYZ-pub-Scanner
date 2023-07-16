@@ -4,6 +4,8 @@ XYZ PUB Crypto Scanner is a PyQt5-based tool for scanning Bitcoin wallets and de
 
 Python script for generating and checking Bitcoin addresses derived from a mnemonic (BIP39) using the hdwallet library. It includes various functions for formatting and displaying text in different colors.
 
+## https://mizogg.co.uk/xyzpub/
+
 ## xpubscan.py
 
 ![image](https://github.com/Mizogg/XYZ-pub-Scanner/assets/88630056/70aaa45b-9aff-49ff-af28-674500e40112)
