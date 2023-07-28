@@ -1,0 +1,7 @@
+﻿base58
+requests
+trotter
+rich
+mnemonic
+hdwallet
+PyQt5
